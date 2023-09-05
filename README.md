@@ -1,5 +1,5 @@
 ### Welcome Dear Viewer, my name is Patryk
-I'am a Senior QA Engineer with Algorithmical & Mathematical background. I specialize in Java, but my thirst for knowledge can't pull me away from learning, so I am able to also write code in Python and JavaScript.  
+I am a Senior QA Engineer with an E-Commerce/Gaming/Hardware background. I specialize in Java, but my thirst for knowledge can't pull me away from learning, so I am also familiar with Python and JavaScript.  
   
 Currently in a process of learning & transitioning into Full-Stack Developer. For a direct contact you can find me on [https://www.linkedin.com/in/wronskipatryk](LinkedIn)
 
