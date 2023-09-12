@@ -1,7 +1,7 @@
 ### Welcome Dear Viewer, my name is Patryk
 I am a Senior QA Engineer with an E-Commerce/Gaming/Hardware background. I specialize in Java, but my thirst for knowledge can't pull me away from learning, so I am also familiar with Python and JavaScript.  
   
-Currently in a process of learning & transitioning into Full-Stack Developer. For a direct contact you can find me on [https://www.linkedin.com/in/wronskipatryk](LinkedIn)
+Currently in a process of learning & transitioning into Software Developer in Test (SDET). For a direct contact you can find me on [https://www.linkedin.com/in/wronskipatryk](LinkedIn)
 
 ### Current Technological Stack:
 [![My Skills](https://skillicons.dev/icons?i=java,idea,gradle,selenium,azure,jenkins,postman&theme=light)](https://skillicons.dev)
