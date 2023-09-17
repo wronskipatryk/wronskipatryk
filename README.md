@@ -5,9 +5,7 @@ Currently in a process of learning & transitioning into Software Developer in Te
 
 ### Current Technological Stack:
 [![My Skills](https://skillicons.dev/icons?i=java,idea,gradle,selenium,azure,jenkins,postman&theme=light)](https://skillicons.dev)
-
-### Learning path
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/643c2477e2725773748f30ed?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/643c2477e2725773748f30ed?variant=dark&roadmaps=backend%2Cjava%2Cqa)](https://roadmap.sh)
 
 
 <!--
