@@ -6,6 +6,9 @@ Currently in a process of learning & transitioning into Software Developer in Te
 ### Current Technological Stack:
 [![My Skills](https://skillicons.dev/icons?i=java,idea,gradle,selenium,azure,jenkins,postman&theme=light)](https://skillicons.dev)
 
+### Learning path
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/643c2477e2725773748f30ed?variant=dark)](https://roadmap.sh)
+
 
 <!--
 **wronskipatryk/wronskipatryk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
